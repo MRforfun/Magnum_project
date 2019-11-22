@@ -1,0 +1,7 @@
+[Sat Oct  5 10:51:03 2019] Failed to listen on localhost:8080 (reason: Address already in use)
+Pseudo-terminal will not be allocated because st[Sat Oct  5 10:51:09 2019] 127.0.0.1:34392 [200]: /
+[Sat Oct  5 10:51:31 2019] 127.0.0.1:34396 [200]: /
+[Sat Oct  5 10:51:34 2019] 127.0.0.1:34398 [404]: /favicon.ico - No such file or directory
+[Sat Oct  5 10:51:49 2019] 127.0.0.1:34400 [200]: /tangkap.php
+[Sat Oct  5 10:53:21 2019] 127.0.0.1:34404 [200]: /tangkap.php
+//tes.serveo.net/tangkap.php
