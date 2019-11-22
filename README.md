@@ -1,7 +1,7 @@
 # Magnum_project
 
 this is tools for facebook 
-#####features:
+##### features:
   - bot
   - some cracker
   - profile guard
@@ -9,9 +9,9 @@ this is tools for facebook
   - and other
 
 
-#####contact:
+##### contact:
 +62 82288934455
-#####youtube:
+##### youtube:
 https://www.youtube.com/channel/UCcpF3CBPwhat06_3Tg4o4tg
 
 # how to install 
