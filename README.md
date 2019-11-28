@@ -16,7 +16,7 @@ https://www.youtube.com/channel/UCcpF3CBPwhat06_3Tg4o4tg
 
 # how to install 
 ```
-$ bash bahan.sh
+$ python2 setup.py
 ```
 # running
 ```
