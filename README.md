@@ -23,4 +23,4 @@ $ python2 setup.py
 $ python2 magnum.py
 ```
 # screenshot
-<img src="image/magnum_new.png"/>
+<img src="magnum_new.png"/>
